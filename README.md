@@ -42,9 +42,9 @@ To run this project you need to create an executable file. You can follow the st
 # Result: This project is just an implementation of Huffman coding, it is not as efficient as the compression algorithm used currently to compress files.
 Example: inputFile.txt (2.2MB) is compressed to compressedFile.huf (1.1MB) file and decompressed back to ouputFile.txt (2.2MB). 
 
-<img width="469" height="611" alt="image" src="https://github.com/user-attachments/assets/4914d813-336a-4819-a746-56f22127c531" />
-<img width="466" height="610" alt="image" src="https://github.com/user-attachments/assets/d9b06600-0abd-424f-a9eb-c801f316eb9d" />
-<img width="593" height="769" alt="image" src="https://github.com/user-attachments/assets/d695bfa1-a6d4-49c6-99fc-f89ebe5a25d9" />
+<img width="33%" alt="input file" src="https://github.com/user-attachments/assets/4914d813-336a-4819-a746-56f22127c531" />
+<img width="33%" alt="compressed file" src="https://github.com/user-attachments/assets/d9b06600-0abd-424f-a9eb-c801f316eb9d" />
+<img width="33%" alt="output file" src="https://github.com/user-attachments/assets/d695bfa1-a6d4-49c6-99fc-f89ebe5a25d9" />
 
 
 
